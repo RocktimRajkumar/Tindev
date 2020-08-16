@@ -1,12 +1,11 @@
 import React from 'react';
+import Header from './Header'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Rishtey Banao <span role="img" aria-label="heart">💘</span> </h1>
-
-      {/* HEADER */}
+      <Header />
       {/* Tinder Card */}
       {/* Button at bottom */}
 

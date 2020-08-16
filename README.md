@@ -1,6 +1,6 @@
 ## Plan of Action
 
-   - [ ] HEADER 
+   - [x] HEADER 
    - [ ] Tinder Card 
    - [ ] Button at bottom 
    - [ ] Chat Screen 
