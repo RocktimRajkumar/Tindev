@@ -6,10 +6,10 @@
 }
 
 .header__logo {
-    height: 60px;
+    height: 50px;
     object-fit: contain;
 }
 
 .header__icon {
-    padding: 15px
+    padding: 10px
 }
