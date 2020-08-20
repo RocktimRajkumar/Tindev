@@ -1,8 +1,12 @@
 .swipeButtons {
     position: fixed;
-    bottom: 8px;
+    bottom: 15px;
     display: flex;
-    width: 100%;
+    width: 700px;
+    max-width: 95vw;
+    margin: auto;
+    left: 0;
+    right: 0;
     justify-content: space-evenly;
 }
 
@@ -12,26 +16,26 @@
 }
 
 .swipeButtons__repeat {
-    padding: 3vw !important;
+    padding: 3% !important;
     color: #f5b748 !important;
 }
 
 .swipeButtons__left {
-    padding: 3vw !important;
+    padding: 3% !important;
     color: #ec5e6f !important;
 }
 
 .swipeButtons__star {
-    padding: 3vw !important;
+    padding: 3% !important;
     color: #62b4f9 !important;
 }
 
 .swipeButtons__right {
-    padding: 3vw !important;
+    padding: 3% !important;
     color: #76e2b3 !important;
 }
 
 .swipeButtons__lightning {
-    padding: 3vw !important;
+    padding: 3% !important;
     color: #915dd1 !important;
 }
