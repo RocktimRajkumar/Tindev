@@ -8,14 +8,17 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Header />
       <Router>
+
         <Switch>
           <Route path='/' exact>
+            <Header />
             <TinderCards />
             <SwipeButtons />
           </Route>
-          <Route path='/chat'>
+          <Route path='/chats'>
+            <Header backButton='/' />
+            <p>This is chat</p>
             {/* Chat Screen */}
           </Route>
         </Switch>
