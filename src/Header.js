@@ -24,7 +24,7 @@ export default function Header({ backButton }) {
                 <img className="header__logo"
                     src="./rishtey.png" alt="rishtey logo" />
             </Link>
-            <Link to='/chats'>
+            <Link to='/chat'>
                 <IconButton>
                     <QuestionAnswerIcon className='header__icon' fontSize='large' />
                 </IconButton>

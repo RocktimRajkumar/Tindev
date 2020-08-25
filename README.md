@@ -3,6 +3,6 @@
    - [x] HEADER 
    - [x] Tinder Card 
    - [x] Button at bottom 
-   - [ ] Chat Screen 
-   - [ ] Individual Chat Screen 
+   - [x] Chat Screen 
+   - [x] Individual Chat Screen 
 
